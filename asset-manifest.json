@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/nickl9.github.io/website/static/css/main.d1b05096.chunk.css",
+    "main.js": "/nickl9.github.io/website/static/js/main.36ffc072.chunk.js",
+    "main.js.map": "/nickl9.github.io/website/static/js/main.36ffc072.chunk.js.map",
+    "runtime-main.js": "/nickl9.github.io/website/static/js/runtime-main.b16be4f6.js",
+    "runtime-main.js.map": "/nickl9.github.io/website/static/js/runtime-main.b16be4f6.js.map",
+    "static/js/2.e90be324.chunk.js": "/nickl9.github.io/website/static/js/2.e90be324.chunk.js",
+    "static/js/2.e90be324.chunk.js.map": "/nickl9.github.io/website/static/js/2.e90be324.chunk.js.map",
+    "index.html": "/nickl9.github.io/website/index.html",
+    "precache-manifest.d45af37cf5230efc3e78e5f76bc1aa02.js": "/nickl9.github.io/website/precache-manifest.d45af37cf5230efc3e78e5f76bc1aa02.js",
+    "service-worker.js": "/nickl9.github.io/website/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/nickl9.github.io/website/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.e90be324.chunk.js.LICENSE.txt": "/nickl9.github.io/website/static/js/2.e90be324.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/nickl9.github.io/website/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b16be4f6.js",
+    "static/js/2.e90be324.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.36ffc072.chunk.js"
+  ]
+}
