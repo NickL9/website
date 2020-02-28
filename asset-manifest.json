@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/nickl9.github.io/website/static/css/main.d1b05096.chunk.css",
-    "main.js": "/nickl9.github.io/website/static/js/main.36ffc072.chunk.js",
-    "main.js.map": "/nickl9.github.io/website/static/js/main.36ffc072.chunk.js.map",
-    "runtime-main.js": "/nickl9.github.io/website/static/js/runtime-main.b16be4f6.js",
-    "runtime-main.js.map": "/nickl9.github.io/website/static/js/runtime-main.b16be4f6.js.map",
-    "static/js/2.e90be324.chunk.js": "/nickl9.github.io/website/static/js/2.e90be324.chunk.js",
-    "static/js/2.e90be324.chunk.js.map": "/nickl9.github.io/website/static/js/2.e90be324.chunk.js.map",
-    "index.html": "/nickl9.github.io/website/index.html",
-    "precache-manifest.d45af37cf5230efc3e78e5f76bc1aa02.js": "/nickl9.github.io/website/precache-manifest.d45af37cf5230efc3e78e5f76bc1aa02.js",
-    "service-worker.js": "/nickl9.github.io/website/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/nickl9.github.io/website/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.e90be324.chunk.js.LICENSE.txt": "/nickl9.github.io/website/static/js/2.e90be324.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/nickl9.github.io/website/static/media/logo.5d5d9eef.svg"
+    "main.css": "/website/static/css/main.d1b05096.chunk.css",
+    "main.js": "/website/static/js/main.d82068cf.chunk.js",
+    "main.js.map": "/website/static/js/main.d82068cf.chunk.js.map",
+    "runtime-main.js": "/website/static/js/runtime-main.6fed7f67.js",
+    "runtime-main.js.map": "/website/static/js/runtime-main.6fed7f67.js.map",
+    "static/js/2.e90be324.chunk.js": "/website/static/js/2.e90be324.chunk.js",
+    "static/js/2.e90be324.chunk.js.map": "/website/static/js/2.e90be324.chunk.js.map",
+    "index.html": "/website/index.html",
+    "precache-manifest.dc8164e3be41c4884c36ab3058943efc.js": "/website/precache-manifest.dc8164e3be41c4884c36ab3058943efc.js",
+    "service-worker.js": "/website/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/website/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.e90be324.chunk.js.LICENSE.txt": "/website/static/js/2.e90be324.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/website/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b16be4f6.js",
+    "static/js/runtime-main.6fed7f67.js",
     "static/js/2.e90be324.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.36ffc072.chunk.js"
+    "static/js/main.d82068cf.chunk.js"
   ]
 }
